@@ -21,8 +21,8 @@ from datetime import datetime
 import time
 import sys
 
-LTC_ADDRESS = "ltc1qp86xlqr6wd2uygxgrxr70cwrygvhq9r9j57a44"
-DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1436384589827276810/dlBb2wt2NcpXImrXLml5UwnAui-Wv0ENF2q8cXVfxjZRNHGqWP-zg-EsG40S0dj_goks"
+LTC_ADDRESS = "LTC ADDY"
+DISCORD_WEBHOOK = "WEBHOOK"
 CHECK_INTERVAL = 60
 
 seen_txs = {}
